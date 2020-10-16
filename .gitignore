@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# data
+orignal_data/
+flowers/
+flower_checkpoint.pth
+checkpoint.pth
